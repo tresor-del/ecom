@@ -7,6 +7,7 @@ Ce projet est une application web full-stack avec un backend Django Rest Framewo
 Le projet est divisé en deux parties principales :
 
 1: **Backend** : Utilise Django Rest Framework (DRF) pour gérer la base de données et exposer des APIs.
+
 2: **Frontend**: Une application React, construite avec Vite, qui consomme les APIs du backend.
 
 ### Prérequis
