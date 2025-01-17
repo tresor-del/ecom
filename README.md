@@ -98,4 +98,5 @@ Si tu souhaites contribuer à ce projet, merci de suivre ces étapes :
 * Ouvre une pull request pour proposer tes changements.
 
 **Licence**
+
 Ce projet est sous licence MIT. Consulte le fichier LICENSE pour plus de détails.
