@@ -1,4 +1,4 @@
-# Projet E-Commerce Full-Stack
+# Projet E-Commerce Full-Stack ( en développement )
 
 Ce projet est une application web full-stack avec un backend Django Rest Framework (DRF) et un frontend React avec Vite. Le backend gère la base de données et expose des APIs REST, tandis que le frontend est une application React moderne, rapide et légère.
 
